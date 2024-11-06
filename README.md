@@ -30,6 +30,8 @@ Conexion de servicios de wordpress con el servicio NFS.
 
 # 2. información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
 
+![WhatsApp Image 2024-11-05 at 23 11 21_ff463125](https://github.com/user-attachments/assets/29006bde-8b9e-4721-9e29-677a5b0259f9)
+
 # 3. Descripción del ambiente de desarrollo y técnico.
 
 IPs Privadas:
