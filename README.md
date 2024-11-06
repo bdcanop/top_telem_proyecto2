@@ -55,3 +55,6 @@ Instancias:
 La guía paso a paso de este proyecto se encuentra en el archivo ```PasoAPaso.md``` subido en este repositorio. De igual forma, se puede acceder a este desde el enlace a continuación:
 
 https://github.com/bdcanop/top_telem_proyecto2/blob/main/PasoAPaso.md
+
+# 5. Video de Sustentación
+https://eafit-my.sharepoint.com/:v:/g/personal/sbetancurb_eafit_edu_co/ETxzjydut6ZFggexEK9OeAgBsiQG3skwr7jE1B9mUKWraQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GYwrZm
