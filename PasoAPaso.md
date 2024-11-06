@@ -221,7 +221,7 @@ kubectl apply -f nfs-pvc.yaml
 
 #### Configuración Base de Datos y WordPress.
 
-Conectado a la instancia microk8s-master, realice lo siguiente:
+Conectado a la instancia Master, realice lo siguiente:
 
 - Para la creación de un kustomization file, con el fin de almacenar un Secret con información de la base de datos, ejecute el siguiente comando cambiando el valor **YOUR_PASSWORD** por la contraseña que desee colocar para la base de datos:
 ```
