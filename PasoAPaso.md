@@ -4,16 +4,26 @@
 
 ### Creación y configuración inicial de instancias.
 Primero, cree 4 máquinas virtuales en AWS. Llame a una de ellas Master, y a otras dos Worker 1 y Worker 2, respectivamente, y finalmente a otra instancia llamada NFS. 
+
 Para las cuatro máquinas utilice la imagen de Ubuntu
+
 ![image](https://github.com/user-attachments/assets/c67b8339-e820-480b-a90c-836dc261d831)
+
 Tipo de instancia t2.medium
+
 ![image](https://github.com/user-attachments/assets/2786bad5-76de-44f2-8eea-069e4042947d)
+
 Par de claves la que quiera asignar (en nuestro caso vockey)
+
 ![image](https://github.com/user-attachments/assets/6eb142d1-3844-465a-a958-31b52af9a09d)
+
 Cree un nuevo grupo de seguridad despues habilitar las siguientes reglas
+
 ![image](https://github.com/user-attachments/assets/711d530b-b065-41b3-befe-2417a2fc2633)
 ![image](https://github.com/user-attachments/assets/5af4ad3f-8828-4b38-8f01-3703f3ab020c)
+
 Por ultimo el almacenamiento de 20 GiB.
+
 ![image](https://github.com/user-attachments/assets/c9afdc7a-687d-45a9-865c-02147041c70e)
 
 ### Configuración inicial de instancia master, worker 1, worker 2 y NFS.
