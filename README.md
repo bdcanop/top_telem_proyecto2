@@ -35,18 +35,18 @@ Conexion de servicios de wordpress con el servicio NFS.
 IPs Privadas:
 
 Instancias:
-Master: 172.31.0.110
-Worker 1: 172.31.4.44
-Worker 2: 172.31.13.74
-NFS: 172.31.10.138
+- Master: 172.31.0.110
+- Worker 1: 172.31.4.44
+- Worker 2: 172.31.13.74
+- NFS: 172.31.10.138
 
 IPs Publicas:
 
 Instancias:
-Master: 54.210.188.206
-Worker 1: 3.87.170.154
-Worker 2: 100.26.204.112
-NFS: 3.81.14.117
+- Master: 54.210.188.206
+- Worker 1: 3.87.170.154
+- Worker 2: 100.26.204.112
+- NFS: 3.81.14.117
 
 # 4. Guía paso a paso de instalación y configuración
 
