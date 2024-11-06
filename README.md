@@ -48,7 +48,7 @@ Worker 1: 3.87.170.154
 Worker 2: 100.26.204.112
 NFS: 3.81.14.117
 
-## 4. Guía paso a paso de instalación y configuración
+# 4. Guía paso a paso de instalación y configuración
 
 La guía paso a paso de este proyecto se encuentra en el archivo ```PasoAPaso.md``` subido en este repositorio. De igual forma, se puede acceder a este desde el enlace a continuación:
 
