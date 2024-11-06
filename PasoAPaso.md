@@ -1,4 +1,4 @@
-# st0263-Proyecto-2
+# ST0263-Proyecto-2
 
 ## Instructivo Paso a Paso:
 
