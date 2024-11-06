@@ -52,4 +52,4 @@ NFS: 3.81.14.117
 
 La guía paso a paso de este proyecto se encuentra en el archivo ```PasoAPaso.md``` subido en este repositorio. De igual forma, se puede acceder a este desde el enlace a continuación:
 
-PasoAPaso.md
+https://github.com/bdcanop/top_telem_proyecto2/blob/main/PasoAPaso.md
