@@ -22,9 +22,10 @@ Clúster instalado en nube con mikrok8s.
 Almacenamiento en la capa de datos haciendo uso de una base de datos MySQL.
 Almacenamiento de archivos distribuido implementado haciendo uso del NFS dentro del mismo clúster.
 Conexion de servicios de wordpress con el servicio NFS.
-Certificado SSL para habilitar la conexión cifrada (HTTPS).
 
 ## 1.2. Que aspectos NO cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
+Redireccionamiento del trafico de red hacia la pagina 
+Certificado SSL para habilitar la conexión cifrada (HTTPS).
 
 
 # 2. información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
