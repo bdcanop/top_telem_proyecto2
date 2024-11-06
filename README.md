@@ -24,8 +24,8 @@ Almacenamiento de archivos distribuido implementado haciendo uso del NFS dentro 
 Conexion de servicios de wordpress con el servicio NFS.
 
 ## 1.2. Que aspectos NO cumplió o desarrolló de la actividad propuesta por el profesor (requerimientos funcionales y no funcionales)
-Redireccionamiento del trafico de red hacia la pagina /n
-Certificado SSL para habilitar la conexión cifrada (HTTPS).
+• Certificado SSL para habilitar la conexión cifrada (HTTPS).
+•	Redireccionamiento del trafico de red hacia la pagina
 
 
 # 2. información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
