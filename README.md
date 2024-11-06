@@ -48,14 +48,8 @@ Worker 1: 3.87.170.154
 Worker 2: 100.26.204.112
 NFS: 3.81.14.117
 
-# 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
+## 4. Guía paso a paso de instalación y configuración
 
-# IP o nombres de dominio en nube o en la máquina servidor.
+La guía paso a paso de este proyecto se encuentra en el archivo ```PasoAPaso.md``` subido en este repositorio. De igual forma, se puede acceder a este desde el enlace a continuación:
 
-## descripción y como se configura los parámetros del proyecto (ej: ip, puertos, conexión a bases de datos, variables de ambiente, parámetros, etc)
 
-## como se lanza el servidor.
-
-## una mini guia de como un usuario utilizaría el software o la aplicación
-
-## opcionalmente - si quiere mostrar resultados o pantallazos 
