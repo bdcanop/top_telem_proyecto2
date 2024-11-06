@@ -127,7 +127,6 @@ sudo systemctl restart nfs-kernel-server
 
 ### Creación del clúster.
 
-#### Configuración workers.
 En la instancia Master ejecute el comando:
 
 ```
