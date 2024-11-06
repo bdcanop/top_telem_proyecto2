@@ -30,15 +30,23 @@ Conexion de servicios de wordpress con el servicio NFS.
 
 # 2. información general de diseño de alto nivel, arquitectura, patrones, mejores prácticas utilizadas.
 
-# 3. Descripción del ambiente de desarrollo y técnico: lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
+# 3. Descripción del ambiente de desarrollo y técnico.
 
-## como se compila y ejecuta.
-## detalles del desarrollo.
-## detalles técnicos
-## descripción y como se configura los parámetros del proyecto (ej: ip, puertos, conexión a bases de datos, variables de ambiente, parámetros, etc)
-## opcional - detalles de la organización del código por carpetas o descripción de algún archivo. (ESTRUCTURA DE DIRECTORIOS Y ARCHIVOS IMPORTANTE DEL PROYECTO, comando 'tree' de linux)
-## 
-## opcionalmente - si quiere mostrar resultados o pantallazos 
+IPs Privadas:
+
+Instancias:
+Master: 172.31.0.110
+Worker 1: 172.31.4.44
+Worker 2: 172.31.13.74
+NFS: 172.31.10.138
+
+IPs Publicas:
+
+Instancias:
+Master: 54.210.188.206
+Worker 1: 3.87.170.154
+Worker 2: 100.26.204.112
+NFS: 3.81.14.117
 
 # 4. Descripción del ambiente de EJECUCIÓN (en producción) lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
