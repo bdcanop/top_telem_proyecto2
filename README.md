@@ -1,10 +1,10 @@
 # ST0263 - Tópicos Especiales de Telemática
 
 ## Integrantes:
-•	Simon Betancur Bedoya
-•	Esteban Sierra Patiño
-•	Daniel Cano Perez
-•	Miguel Angel Cabrera Osorio
+- Simon Betancur Bedoya
+- Esteban Sierra Patiño
+- Daniel Cano Perez
+- Miguel Angel Cabrera Osorio
 
 ## Profesor
 - **Nombre:** Edwin Nelson Montoya Munera
